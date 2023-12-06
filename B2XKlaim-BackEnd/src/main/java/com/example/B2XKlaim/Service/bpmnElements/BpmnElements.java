@@ -32,6 +32,8 @@ import java.util.stream.Stream;
 @Builder
 public class BpmnElements {
 
+
+
     public enum ElementType {
         NSE, MSE, SSE, MIC, SIC, MIT, SIT, NEE, MEE, SEE, XOR, AND, LP, CLA, ESP, ST, SQ, PL, MIPL, DO, COLLAB
     }
